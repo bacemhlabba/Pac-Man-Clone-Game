@@ -79,7 +79,7 @@ Once the game starts, use the arrow keys to move the player character (Pac-Man).
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com].
+If you have any questions or suggestions, feel free to contact me at [bacem.hlabba@gmail.com].
 
 ---
 
