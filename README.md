@@ -1,4 +1,7 @@
 # Pac-Man Clone Game
+![image](https://github.com/user-attachments/assets/8fd4a46b-b7fc-4a94-8f64-2c9709bc380b)
+![image](https://github.com/user-attachments/assets/1e9ab86d-c426-4cec-831d-bffd786e4774)
+![image](https://github.com/user-attachments/assets/5f6383ba-3902-4cb8-b9dc-0f4dee2f8792)
 
 This is a simple Pac-Man clone game created using Python and Pygame.
 
